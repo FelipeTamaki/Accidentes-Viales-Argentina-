@@ -105,17 +105,6 @@ Los **conductores** representan la mayor proporción de víctimas, seguidos por:
 
 ---
 
-## Estructura del proyecto
-
-Accidentes-Viales-Dashboard
-│
-├── dashboard.pbix
-├── dataset_accidentes.csv
-└── README.md
-
-
----
-
 ## Conclusiones
 
 El análisis permite identificar algunos patrones relevantes:
