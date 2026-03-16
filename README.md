@@ -11,6 +11,17 @@ El análisis busca generar **insights que puedan ayudar a entender mejor la dist
 
 ---
 
+## Cómo usar el proyecto
+
+Para utilizar el proyecto solo es necesario descargar el archivo **TP2 - Accidentes viales.pbix** y abrirlo con **Power BI Desktop**.  
+El dataset ya se encuentra cargado dentro del archivo, por lo que **no es necesario configurar conexiones externas ni realizar procesos adicionales de carga de datos**.
+
+Dentro del archivo de Power BI también se encuentra implementado **todo el modelado de datos**, incluyendo el **esquema tipo snowflake**, las **transformaciones necesarias**, y todas las **métricas y medidas (DAX)** utilizadas para construir las visualizaciones del dashboard.
+
+Una vez abierto el archivo, el usuario puede navegar entre las distintas páginas del dashboard (**Panorama General, Provincia y Vehículo**) y utilizar los filtros interactivos del panel izquierdo para explorar los datos según **fecha, provincia, sexo, medio de transporte, vía y estado del semáforo**.
+
+---
+
 ## Dataset
 
 El dataset contiene registros de accidentes viales con información sobre:
